@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katiacih" alt="katiacih" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/katiacih" target="blank"><img src="https://img.shields.io/twitter/follow/katiacih?logo=twitter&style=for-the-badge" alt="katiacih" /></a> </p>
 
 - 🔭 I’m currently working on **Trybe**
 
