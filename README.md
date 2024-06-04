@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katiacih" alt="katiacih" /></a> </p>
 
 
-- 🔭 I’m currently working on **Trybe**
+- 🔭 I’m currently working on **Grupo Boticário**
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **elixir, fastify, nestjs, nextjs**
 
 - 👨‍💻 All of my projects are available at [https://katiacih.github.io/](https://katiacih.github.io/)
 
